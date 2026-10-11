@@ -1,11 +1,11 @@
 Fast screenshot taker for windows for multimonitor environment. 
 It saves separate PNG file from every monitor. 
 
-By default it takes stcreenshots from all monitors and saves into current directory
+By default it takes stcreenshots from all monitors and saves into current directory:
 monitor_0.png
 monitor_1.png
 ...
-monitor_N.png
+monitor_N.png.
 
 Example usage:
 
