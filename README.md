@@ -25,7 +25,7 @@ will
 
 
 
-Usage: screenshot.exe [-m 0 -m 1 ...] [-o file_prefix] [--help|-h] [-t]
+Usage: screenshot.exe [-m 0 -m 1 ...] [-o file_prefix] [--help|-h] [-t] [-p]
 
 By default it saves screenshots from monitors into separate files
 
